@@ -1,9 +1,16 @@
 .navbar-dark {
-    background-color: #512da8;
+    padding: 0px 0px 0px 100px;
 }
 .jumbotron {
-    padding: 70px 30px 70px 30px;
+    padding: 200px 30px 200px 30px;
     margin: 0px auto;
-    background: #9575cd;
+    background: #52b1f0;
     color: floralwhite;
+}
+
+.row-content{
+    padding: 100px
+}
+
+.row-header{
 }
