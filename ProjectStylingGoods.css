@@ -1,13 +1,32 @@
 .navbar-dark {
-    padding: 0px
+    padding: 0px;
+}
+.navbar-brand{
+
 }
 .jumbotron {
-    padding: 200px 30px 200px 30px;
-    margin: 0px auto;
-    background: #52b1f0;
-    color: floralwhite;
+    background-color: black;
 }
 
 .row-content{
     padding: 100px
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.carousel{
+    width: 1840px;
+    height: 400px;
+    background-attachment: fixed;
+    background-color: blue;
+}
+body{
+    
+}
+.img-responsive{
+    width: 100px;
+    height: 400px;
 }
