@@ -1,6 +1,6 @@
 html, body { overflow-x: hidden; }
 .navbar-dark {
-
+    background-color: #333333;
     padding: 0px;
 }
 .navbar-brand{
@@ -12,7 +12,7 @@ html, body { overflow-x: hidden; }
 }
 
 .row-content{
-    padding: 100px;
+    /*padding: 100px;*/
 }
 .tab-content {
     border-left: 1px solid #ddd;
@@ -32,7 +32,7 @@ html, body { overflow-x: hidden; }
     height: 400px;
 } */
 .navbar-toggler-icon{
-    color: white;
+    /*color: white;*/
 }
 .img-fluid{
     width: 100%;    
@@ -40,8 +40,8 @@ html, body { overflow-x: hidden; }
     
 }
 .img-box{
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 350px;
     
 }
 img{
